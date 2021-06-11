@@ -28,10 +28,10 @@ const App = () => {
         <Route path="/contact" component={Contact} />
         <Route path="/gameOverview" component={GameOverview} />
         <Route path="/gameSingle" component={GameSingle} />
-        <Route exact path="/" component={Home} />
+        <Route exact path="/" component={Home4} />
         <Route path="/home2" component={Home2} />
         <Route path="/home3" component={Home3} />
-        <Route path="/home4" component={Home4} />
+        <Route path="/home4" component={Home} />
         <Route path="/shop" component={Shop} />
         <Route path="/upcomingGames" component={UpcomingGames} />
       </Switch>
