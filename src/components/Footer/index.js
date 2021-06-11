@@ -108,7 +108,9 @@ const Footer = () => {
                   <div className="fw-link">
                     <ul>
                       <li>
-                        <a href="#">Terms &amp; Conditions</a>
+                        <NavLink to="terms-condition">
+                          Terms &amp; Conditions
+                        </NavLink>
                       </li>
                       <li>
                         <a href="#">Privacy Policy</a>

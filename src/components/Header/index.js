@@ -125,10 +125,10 @@ const Header = () => {
                           <NavLink to="gameOverview">Play</NavLink>
                         </li>
                         <li>
-                          <NavLink to="community">Wallet</NavLink>
+                          <NavLink to="wallet">Wallet</NavLink>
                         </li>
                         <li>
-                          <NavLink to="shop">Community</NavLink>
+                          <NavLink to="community">Community</NavLink>
                         </li>
                         {/* <li>
                           <a href="#">Blog</a>
@@ -142,13 +142,13 @@ const Header = () => {
                           </ul>
                         </li> */}
                         <li>
-                          <NavLink to="contact">Support</NavLink>
+                          <NavLink to="support">Support</NavLink>
                         </li>
                         <li>
-                          <NavLink to="contact">Account</NavLink>
+                          <NavLink to="account">Account</NavLink>
                         </li>
                         <li>
-                          <NavLink to="contact">Login</NavLink>
+                          <NavLink to="login">Login</NavLink>
                         </li>
                       </ul>
                     </div>
