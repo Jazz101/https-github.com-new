@@ -15,7 +15,7 @@ const Community = () => {
               <div className="col-12">
                 <div className="breadcrumb-content text-center">
                   <h2>
-                    Our <span>Community</span>
+                    Our<span>Community</span>
                   </h2>
                   <nav aria-label="breadcrumb">
                     <ol className="breadcrumb">
