@@ -30,6 +30,14 @@ import SPRODUCT4IMAGE from "./../../img/product/s_product_img04.jpg";
 import SBLOGTHUMB1IMAGE from "./../../img/blog/s_blog_thumb01.jpg";
 import SBLOGTHUMB2IMAGE from "./../../img/blog/s_blog_thumb02.jpg";
 import SBLOGTHUMB3IMAGE from "./../../img/blog/s_blog_thumb03.jpg";
+import OneImage from './../../img/gameImage/One.png'
+import TwoImage from './../../img/gameImage/Two.png'
+import ThreeImage from './../../img/gameImage/Three.png'
+import FourImage from './../../img/gameImage/Four.png'
+import FiveImage from './../../img/gameImage/Five.png'
+import SixImage from './../../img/gameImage/Six.png'
+import SevenImage from './../../img/gameImage/Seven.png'
+import EightImage from './../../img/gameImage/Eight.png'
 
 const Home2 = () => {
   return (
@@ -706,7 +714,7 @@ const Home2 = () => {
                 <div className="shop-item">
                   <div className="product-thumb">
                     <a href="#">
-                      <img src={SPRODUCT1IMAGE} alt="" />
+                      <img src={OneImage} alt="" />
                     </a>
                   </div>
                   <div className="product-content">
@@ -733,7 +741,7 @@ const Home2 = () => {
                 <div className="shop-item">
                   <div className="product-thumb">
                     <a href="#">
-                      <img src={SPRODUCT2IMAGE} alt="" />
+                      <img src={TwoImage} alt="" />
                     </a>
                   </div>
                   <div className="product-content">
@@ -760,7 +768,7 @@ const Home2 = () => {
                 <div className="shop-item">
                   <div className="product-thumb">
                     <a href="#">
-                      <img src={SPRODUCT3IMAGE} alt="" />
+                      <img src={ThreeImage} alt="" />
                     </a>
                   </div>
                   <div className="product-content">
@@ -787,7 +795,7 @@ const Home2 = () => {
                 <div className="shop-item">
                   <div className="product-thumb">
                     <a href="#">
-                      <img src={SPRODUCT4IMAGE} alt="" />
+                      <img src={FourImage} alt="" />
                     </a>
                   </div>
                   <div className="product-content">
@@ -814,7 +822,88 @@ const Home2 = () => {
                 <div className="shop-item">
                   <div className="product-thumb">
                     <a href="#">
-                      <img src={SPRODUCT4IMAGE} alt="" />
+                      <img src={FiveImage} alt="" />
+                    </a>
+                  </div>
+                  <div className="product-content">
+                    <div className="product-tag">
+                      <a href="#">VR-Box</a>
+                    </div>
+                    <h4>
+                      <a href="#">Virtual Reality Smiled</a>
+                    </h4>
+                    <div className="product-meta">
+                      <div className="product-price">
+                        <h5>$29.00</h5>
+                      </div>
+                      <div className="product-cart-action">
+                        <a href="#">
+                          <i className="fas fa-shopping-basket" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-xl-3">
+                <div className="shop-item">
+                  <div className="product-thumb">
+                    <a href="#">
+                      <img src={SixImage} alt="" />
+                    </a>
+                  </div>
+                  <div className="product-content">
+                    <div className="product-tag">
+                      <a href="#">VR-Box</a>
+                    </div>
+                    <h4>
+                      <a href="#">Virtual Reality Smiled</a>
+                    </h4>
+                    <div className="product-meta">
+                      <div className="product-price">
+                        <h5>$29.00</h5>
+                      </div>
+                      <div className="product-cart-action">
+                        <a href="#">
+                          <i className="fas fa-shopping-basket" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-xl-3">
+                <div className="shop-item">
+                  <div className="product-thumb">
+                    <a href="#">
+                      <img src={SevenImage} alt="" />
+                    </a>
+                  </div>
+                  <div className="product-content">
+                    <div className="product-tag">
+                      <a href="#">VR-Box</a>
+                    </div>
+                    <h4>
+                      <a href="#">Virtual Reality Smiled</a>
+                    </h4>
+                    <div className="product-meta">
+                      <div className="product-price">
+                        <h5>$29.00</h5>
+                      </div>
+                      <div className="product-cart-action">
+                        <a href="#">
+                          <i className="fas fa-shopping-basket" />
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-xl-3">
+                <div className="shop-item">
+                  <div className="product-thumb">
+                    <a href="#">
+                      <img src={EightImage} alt="" />
                     </a>
                   </div>
                   <div className="product-content">
