@@ -4865,7 +4865,7 @@ ul.minicart .cart-price .new {
   font-weight: 500;
 }
 .fw-quick-link ul li + li {
-  margin-top: 10px;
+  margin-top: 11px;
 }
 .third-copyright-wrap {
   background: #131418;
@@ -4894,3 +4894,5 @@ ul.minicart .cart-price .new {
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+
